@@ -59,17 +59,17 @@
 
 ## 🚀 Projects
 
-- [**Spotify ETL**](https://github.com/viraniriaz/Spotify_ETL) | September 2023
+- [**Spotify ETL**](https://github.com/viraniriaz/Spotify_ETL) | Sep 2023
 
   The goal is to get the latest rankings of best Hindi songs in the US, transform the raw API data into analysis-ready tables, and load them into Snowflake.
    
   ![Lane Detection Demo](img/clouldstorage.png)
 
 
-- [**Patent Document Summarization**](https://github.com/SaiKolapudi/Patent_Summaries) | Jan 2023
+- [**Tokyo Olympics Azure Data Engineering Pipeline**](https://github.com/viraniriaz/tokyo-olympic-azure-data-engineering-project) | Jan 2023
 
-  Developed neural network models for summarizing patent documents based on research insights. Explored models include T5 variations, XLNet, BART, BigBird, Pegasus, and GPT-3.5. Evaluated using various metrics like ROUGE, BLEU, and BERT Score. Implemented using Hugging Face Transformers and Seq2Seq.
-
+  Using Azure Data Factory, I orchestrated the entire data flow, ensuring seamless extraction and loading processes. The Tokyo Olympics data found its home in Azure Data Storage Gen 2, setting the stage for further transformations.
+  ![Lane Detection Demo](img/azureprojecct.jpg)
 
 - [**Breast Cancer Prediction**](https://github.com/SaiKolapudi/WBCD-prediction) | Aug 2022
    
