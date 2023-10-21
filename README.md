@@ -1,5 +1,7 @@
 # Riaz Virani
 
+#### Technical Skills: Python, SQL, Snowflake, Microsoft Azure, GCP
+
 ## 📍 Denton, Texas
 
 📞 [Phone: +1-3467862412](tel:+1-3467862412)
