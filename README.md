@@ -30,7 +30,7 @@
 
 
 - **Vitario** | Data Engineer |Remote
-  Jun 2020 - Aug 2022
+  Jun 2020 - Aug 2022 · 1 yr 4 mos
 
   - Leveraged customer unstructured & structured data to derive insights and implemented machine learning using bigQuery to predict return customer, thereby increasing marketing ROI 6x. Used Pub/Sub and Dataflow to create real-time data streaming pipeline.
   - Identified different options to build machine learning solutions on Google Cloud. Describe a machine learning workflow and the key steps with Vertex AI and build a machine learning pipeline using AutoML.
@@ -38,7 +38,7 @@
 
  
 - **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
-  Jul 2022 - Jan 2023 · 5 mos
+  Jan 2023 - Present · 10 mos
 
   - Applied pedagogical techniques and Canvas Learning Management Systems (LMS) to boost course participation by 15% and increase assignment completion rates by 10%.
   - Utilized statistical analysis tools (Canvas Analytics) to enhance course content, resulting in a 20% increase in exam scores and a 95% course satisfaction rate among students.
