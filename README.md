@@ -65,5 +65,11 @@
 
 - **Osmania University** | Hyderabad, India  
   *Bachelor's in Computer Science (CGPA: 8.13/10)*  
-  Aug 2017 - Aug 2021  
+  Aug 2017 - Aug 2021
+
+## 📜 Certifications
+
+- [**Microsoft Certified: Azure Data Engineer Associate**](https://learn.microsoft.com/en-us/users/RiazVirani-3208/credentials/83801BA081F775DE)
+- [**Microsoft Certified: Azure Data Fundamentals**](https://learn.microsoft.com/en-us/users/riazvirani-3208/credentials/d29686a599161ea7)
+- [**Modernizing Data Lakes and Data Warehouses with Google Cloud**](https://www.coursera.org/account/accomplishments/verify/35GU7HEBDTVT)
 
