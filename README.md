@@ -37,7 +37,7 @@
   - Conducted hyperparameter tuning and feature selection, leading to an improvement in model performance metrics by over 20%.
 
  
-  - **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
+- **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
   Jul 2022 - Jan 2023 · 5 mos
 
   - Applied pedagogical techniques and Canvas Learning Management Systems (LMS) to boost course participation by 15% and increase assignment completion rates by 10%.
