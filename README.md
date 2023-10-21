@@ -75,7 +75,7 @@
    
   In this project, I have completed a comprehensive data engineering project involving real-time stock market data by utilizing Kafka for seamless data processing from start to finish.
 
-  ![Lane Detection Demo](img/azureprojecct.jpg)
+  ![Lane Detection Demo](img/stock_market.png)
 
 
 ## 🎓 Education
