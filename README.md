@@ -57,6 +57,25 @@
 - **Cloud Services:** Google Cloud Functions, IAM, CloudWatch, Azure Databricks, Azure Purview
 
 
+## 🚀 Projects
+
+- [**Spotify ETL**](https://github.com/viraniriaz/Spotify_ETL) | September 2023
+
+  The goal is to get the latest rankings of best Hindi songs in the US, transform the raw API data into analysis-ready tables, and load them into Snowflake.
+   
+  ![Lane Detection Demo](img/clouldstorage.png)
+
+
+- [**Patent Document Summarization**](https://github.com/SaiKolapudi/Patent_Summaries) | Jan 2023
+
+  Developed neural network models for summarizing patent documents based on research insights. Explored models include T5 variations, XLNet, BART, BigBird, Pegasus, and GPT-3.5. Evaluated using various metrics like ROUGE, BLEU, and BERT Score. Implemented using Hugging Face Transformers and Seq2Seq.
+
+
+- [**Breast Cancer Prediction**](https://github.com/SaiKolapudi/WBCD-prediction) | Aug 2022
+   
+  Predicting breast cancer diagnosis using various machine learning techniques. Achieved impressive accuracy rates with different models including RobustScaler Naive Bayes, PCA Test, and more.
+
+
 ## 🎓 Education
 
 - **University of North Texas** | Denton, USA  
