@@ -29,8 +29,8 @@
   - Designed and managed a successful micro-credential program, increasing completion rates, skill proficiency, and program enrollment, with a 95% participant satisfaction rate.
 
 
-- **Vitario** | Data Engineer | Remote
-  Dec 2020 - Mar 2022 · 5 mos
+- **Vitario** |  Data Engineer | Remote  
+  Dec 2020 - Mar 2022 · 1 yr 4 mos
 
   - Leveraged customer unstructured & structured data to derive insights and implemented machine learning using bigQuery to predict return customer, thereby increasing marketing ROI 6x. Used Pub/Sub and Dataflow to create real-time data streaming pipeline.
   - Identified different options to build machine learning solutions on Google Cloud. Describe a machine learning workflow and the key steps with Vertex AI and build a machine learning pipeline using AutoML.
