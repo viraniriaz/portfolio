@@ -34,7 +34,7 @@
 
   - Leveraged customer unstructured & structured data to derive insights and implemented machine learning using bigQuery to predict return customer, thereby increasing marketing ROI 6x. Used Pub/Sub and Dataflow to create real-time data streaming pipeline.
   - Identified different options to build machine learning solutions on Google Cloud. Describe a machine learning workflow and the key steps with Vertex AI and build a machine learning pipeline using AutoML.
-  - Conducted hyperparameter tuning and feature selection, leading to an improvement in model performance metrics by over 20%.
+
 
  
 - **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
@@ -66,14 +66,16 @@
   ![Lane Detection Demo](img/clouldstorage.png)
 
 
-- [**Tokyo Olympics Azure Data Engineering Pipeline**](https://github.com/viraniriaz/tokyo-olympic-azure-data-engineering-project) | Jan 2023
+- [**Tokyo Olympics Azure Data Engineering Pipeline**](https://github.com/viraniriaz/tokyo-olympic-azure-data-engineering-project) | June 2023
 
   Using Azure Data Factory, I orchestrated the entire data flow, ensuring seamless extraction and loading processes. The Tokyo Olympics data found its home in Azure Data Storage Gen 2, setting the stage for further transformations.
   ![Lane Detection Demo](img/azureprojecct.jpg)
 
-- [**Breast Cancer Prediction**](https://github.com/SaiKolapudi/WBCD-prediction) | Aug 2022
+- [**Stock Market Real-Time Data Pipeline**](https://github.com/viraniriaz/stock_market_real_time) | Feb 2023
    
-  Predicting breast cancer diagnosis using various machine learning techniques. Achieved impressive accuracy rates with different models including RobustScaler Naive Bayes, PCA Test, and more.
+  In this project, I have completed a comprehensive data engineering project involving real-time stock market data by utilizing Kafka for seamless data processing from start to finish.
+
+  ![Lane Detection Demo](img/azureprojecct.jpg)
 
 
 ## 🎓 Education
