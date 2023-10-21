@@ -36,6 +36,13 @@
   - Identified different options to build machine learning solutions on Google Cloud. Describe a machine learning workflow and the key steps with Vertex AI and build a machine learning pipeline using AutoML.
   - Conducted hyperparameter tuning and feature selection, leading to an improvement in model performance metrics by over 20%.
 
+ 
+  - **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
+  Jul 2022 - Jan 2023 · 5 mos
+
+  - Applied pedagogical techniques and Canvas Learning Management Systems (LMS) to boost course participation by 15% and increase assignment completion rates by 10%.
+  - Utilized statistical analysis tools (Canvas Analytics) to enhance course content, resulting in a 20% increase in exam scores and a 95% course satisfaction rate among students.
+
 ## 🔍 Skills
 
 - **Languages:** Python, Structure Query Language, JavaScript, Selenium
