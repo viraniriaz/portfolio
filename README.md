@@ -57,7 +57,7 @@
 - **Cloud Services:** Google Cloud Functions, IAM, CloudWatch, Azure Databricks, Azure Purview
 
 
-## 🚀 Projects
+## 🚀 Data Engineering Projects
 
 - [**Spotify ETL**](https://github.com/viraniriaz/Spotify_ETL) | Sep 2023
 
@@ -76,6 +76,16 @@
   In this project, I have completed a comprehensive data engineering project involving real-time stock market data by utilizing Kafka for seamless data processing from start to finish.
 
   ![Lane Detection Demo](img/stock_market.png)
+
+## 🚀 AI/ML Projects
+
+- [**RockyBot**](https://github.com/viraniriaz/langchain) | Oct 2023
+
+  RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+   
+  ![Lane Detection Demo](img/archetecture.png)
+
+
 
 
 ## 🎓 Education
