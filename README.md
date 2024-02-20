@@ -15,12 +15,25 @@
 
 ## 💼 Experience
 
+- **The Shams Group** |  Software Engineer | Dallas, TX  
+  July 2023 - Present · 8 mos
+
+  -  Research and propose database solutions tailored to client requirements, focusing on MEDITECH Expanse Health Information Management(HIM)-related software like abstracting, transcription, scanning & archiving, and chart deficiency physician ESign. Customize applications to meet client specifications and maintain HIPAA compliance.
+  - Provide specialized troubleshooting for database usage issues in clinical, financial, and ambulatory applications. Collaborate with Help Desk for prompt resolution, following best practices and regulatory guidelines.
+  - Coordinate testing across integrated applications in HIM to ensure seamless interoperability. Support system Go Live events, providing on-site assistance to users and addressing any issues to minimize disruptions to client operations.
+
 - **Aces Transportation Company** |  Data and Application Engineer | Remote  
-  Oct 2022 - Present · 1 yr 1 mos
+  Oct 2022 - July 2023 · 10 mos
 
   - Build Software to automate a previously manual and tedious invoicing process, leveraging google sheets, google docs, and google app scripts. Utilized Looker to prepare dashboard for management where they could   visualize key insights. 
   - Improved and optimized existing software by thoroughly evaluating unique goal of each project. Logged all user interaction with application in a SQL database to create an audit trail.
- 
+
+
+- **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
+  Jan 2023 - Dec 2023 · 12 mos
+
+  - Applied pedagogical techniques and Canvas Learning Management Systems (LMS) to boost course participation by 15% and increase assignment completion rates by 10%.
+  - Utilized statistical analysis tools (Canvas Analytics) to enhance course content, resulting in a 20% increase in exam scores and a 95% course satisfaction rate among students.
 
 - **University of North Texas** | Course Designer and Data Manager | Denton, USA  
   Jul 2022 - Jan 2023 · 5 mos
@@ -36,12 +49,7 @@
   - Identified different options to build machine learning solutions on Google Cloud. Describe a machine learning workflow and the key steps with Vertex AI and build a machine learning pipeline using AutoML.
 
 
- 
-- **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
-  Jan 2023 - Present · 10 mos
 
-  - Applied pedagogical techniques and Canvas Learning Management Systems (LMS) to boost course participation by 15% and increase assignment completion rates by 10%.
-  - Utilized statistical analysis tools (Canvas Analytics) to enhance course content, resulting in a 20% increase in exam scores and a 95% course satisfaction rate among students.
 
 ## 🔍 Skills
 
