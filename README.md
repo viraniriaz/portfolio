@@ -12,6 +12,9 @@
 
 👨‍💻 [GitHub: viraniriaz](https://github.com/viraniriaz)
 
+## About
+
+Data is the cornerstone of informed decision-making. Modern tech companies understand its importance and strategically utilize it to drive innovation and gain a competitive edge. With a passion for building resilient data pipelines and leveraging cutting-edge cloud computing advancements, I'm excited to be a part of the data revolution. I deliver scalable, secure, and high-performance data infrastructure to empower organizations with valuable insights.
 
 ## 💼 Experience
 
