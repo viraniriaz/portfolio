@@ -14,7 +14,9 @@
 
 ## About
 
-Data is the cornerstone of informed decision-making. Modern tech companies understand its importance and strategically utilize it to drive innovation and gain a competitive edge. With a passion for building resilient data pipelines and leveraging cutting-edge cloud computing advancements, I'm excited to be a part of the data revolution. I deliver scalable, secure, and high-performance data infrastructure to empower organizations with valuable insights.
+As an AWS Certified Cloud Practitioner and System Analyst, I specialize in architecting cloud-driven solutions that enhance ERP integrations and streamline business operations. I firmly believe that any repetitive task can be automated using technology, eliminating inefficiencies and improving productivity. With expertise in Ellucian Banner, I analyze business workflows, bridge gaps in ERP systems, and design scalable, automation-driven solutions to optimize processes.
+
+Recognizing that data is the cornerstone of informed decision-making, I leverage SQL, Python, and AWS services to develop secure, high-performance architectures that improve data accessibility and operational efficiency. My passion lies in bridging ERP and cloud technologies, ensuring seamless integration that empowers organizations with intelligent automation, data-driven insights, and future-ready solutions in an evolving digital landscape.
 
 ## 💼 Experience
 
@@ -70,16 +72,16 @@ Data is the cornerstone of informed decision-making. Modern tech companies under
 
 ## 🔍 Skills
 
-- **Languages:** Python, Structure Query Language, JavaScript, Selenium
-- **Development Frameworks:** Google Collab, Jupyter Notebook, AWS SDK, GCP SDK, Apache Spark, Apache Hadoop, Apache Kafka, Django
-- **Analytical Tools/Library:** Tableau, Power BI(Business Intelligence), Matplotlib, Seaborn, Pandas, MS Excel, Looker
-- **Database:** Postgres, MySQL, MongoDB, SQLite
+- **Languages:** Python, Structure Query Language(SQL), JavaScript, Selenium, Shell Scripting
+- **Development Frameworks:** Google Collab, Jupyter Notebook, AWS SDK, GCP SDK, Apache Spark, Apache Kafka, Django
+- **Analytical Tools/Library:** envision Argos, Power BI, Matplotlib, Pandas, MS Excel, Looker
+- **Database:** Oracle, Postgres, MySQL, MongoDB, SQLite
 - **Web Technologies:** Rest API, HTML5, CSS, DOM, Bright Data
 - **Data Warehouses:** Amazon Redshift, Google BigQuery, Snowflakes, Azure Synapse Analytics, Data Modeling
 - **Data Lakes:** Amazon S3, Google Cloud Storage, Azure Data Lake Storage
 - **ETL Tools:** Azure Data Factory, AWS Glue, AWS Lambda, Airflow, Google Pub/Sub,Dataflow,Mage
-- **Tools & IDE:** MS Office, Postman, Anaconda, PyCharm, Jupyter Notebook, Github, Visual Studios
-- **Cloud Services:** Google Cloud Functions, IAM, CloudWatch, Azure Databricks, Azure Purview
+- **Tools & IDE:** MS Office, Postman, Anaconda, PyCharm, Jupyter Notebook, Toad, Visual Studios
+- **Cloud Services:** AWS Lamda, Amazon RDS, Amazon SES, API Gateway, AWS Glue, AWS Cognito 
 
 ## 🚀 Projects
 
