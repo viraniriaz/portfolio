@@ -2,7 +2,7 @@
 
 #### Technical Skills: Cloud Architecture, Integration, ERP System Optimization, Business Process Automation 
 
-## 📍 Denton, Texas
+## 📍 Myrtle Beach, South Carolina
 
 📞 [Phone: +1-3467862412](tel:+1-3467862412)
 
