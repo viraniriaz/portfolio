@@ -18,8 +18,22 @@ Data is the cornerstone of informed decision-making. Modern tech companies under
 
 ## 💼 Experience
 
-- **The Shams Group** |  Software Engineer | Dallas, TX  
-  July 2023 - Present · 8 mos
+- **Horry-Georgetown Technical College** |  Banner System Analyst | Myrtle Beach, SC 
+  Jun 2024 - Present · 10 mos
+
+  -  Develop, implement, and maintain the Ellucian Banner system to support the college's operational and academic goals, optimizing processes and enhancing system functionality.
+  - Collaborate with stakeholders to understand and address needs, providing technical support and training to staff and students for an improved user experience.
+  - Conduct regular system analysis, troubleshooting, and documentation to ensure optimal performance, reliability, and continuous improvement in line with the latest advancements in the Ellucian Banner suite.
+
+- **Global Encounters** |  Power BI Developer | Remote
+  July 2024 - Present · 9 mos
+
+  -  Partnering with cross-functional teams to deliver over 20+ data-driven Power BI dashboards, enabling actionable insights for global arts and sports programming.
+  -  Streamlining data visualization for 100+ qualifying events, enhancing transparency and decision-making across festival operations.
+  -  Spearheading reporting solutions that support festival programming, impacting thousands of participants across cultures and borders.
+
+- **The Shams Group** |  Software Engineer/Health IT Consultant | Dallas, TX  
+  Oct 2023 - May 2024 · 8 mos
 
   -  Research and propose database solutions tailored to client requirements, focusing on MEDITECH Expanse Health Information Management(HIM)-related software like abstracting, transcription, scanning & archiving, and chart deficiency physician ESign. Customize applications to meet client specifications and maintain HIPAA compliance.
   - Provide specialized troubleshooting for database usage issues in clinical, financial, and ambulatory applications. Collaborate with Help Desk for prompt resolution, following best practices and regulatory guidelines.
@@ -67,6 +81,33 @@ Data is the cornerstone of informed decision-making. Modern tech companies under
 - **Tools & IDE:** MS Office, Postman, Anaconda, PyCharm, Jupyter Notebook, Github, Visual Studios
 - **Cloud Services:** Google Cloud Functions, IAM, CloudWatch, Azure Databricks, Azure Purview
 
+## 🚀 Projects
+
+- [**Automated Secure Salary Data Reporting to Credit Bureaus**] | July 2024
+  Developed an end-to-end automated pipeline to securely transmit employee salary data to credit bureaus, enhancing loan verification efficiency and reducing HR workload.
+  - Data Extraction & Processing: Identified and retrieved real-time salary data in required format from the ERP system.
+  - Secure File Handling: Encrypted files using the credit bureau’s public key, ensuring 100% compliance with security protocols.
+  - Automated Transfer & Authentication: Established a seamless SFTP-based transmission, reducing manual intervention by 95%.
+  - Workflow Automation: Integrated with UC4 for job scheduling, automated archival, and real-time notifications to HR and payroll teams.
+   
+
+
+- [**Universal Explore Transfer Program Integration**] | Sep 2024
+  Developed a data integration system for the Universal Explore Transfer Program, improving transfer credit evaluation accuracy and reducing manual verification efforts of registrar by over 30%
+  - API Integration: Leveraged ERP APIs with bearer token authentication, ensuring real-time data access for the vendor.
+  - Secure Data Transmission: Configured SFTP-based transfer via Argos, enabling data delivery for 100% of required courses not covered by APIs.
+  - Collaboration & Implementation: Worked with the vendor and Registrar’s Office to enhance course credit mapping, benefiting thousands of students annually.
+  This initiative optimized data flow, improved student decision-making, and streamlined the transfer credit evaluation process without intervention of Registrar.
+
+- [**Business Process Improvement**] | Oct 2024
+   
+  HR Automation - Developed an automated hour deduction system for winter and summer breaks, dynamically adjusting deductions based on employee workweeks. Previously, HR manually processed these calculations, consuming significant time and effort. The automation reduced manual processing by 80%, improved accuracy, and allowed HR to focus on higher-value tasks, ensuring a seamless and efficient workflow.
+
+  Payroll Process Improvement - Transformed the faculty summer contract payroll process by automating contract value calculations and ERP population. Previously, payroll relied on Excel-based computations and manual data entry, leading to inefficiencies and more time processing. The new automated workflow eliminated manual inputs, reducing payroll processing time by 70%, improving data accuracy, and streamlining payroll operations for faculty summer contracts.
+
+  Academic Affairs - Automated the faculty position and suffix assignment process for academic affairs, which was previously handled manually for each course. Leveraged ERP processes to dynamically retrieve faculty positions and automate data entry, eliminating manual input. This automation significantly reduced processing time, minimized errors, and enhanced efficiency in academic scheduling and faculty management.
+
+
 
 ## 🚀 Data Engineering Projects
 
@@ -110,7 +151,7 @@ Data is the cornerstone of informed decision-making. Modern tech companies under
   Aug 2017 - Aug 2021
 
 ## 📜 Certifications
-
+- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b5437f8a-2e3d-4ecf-888f-4c16049f51ee/linked_in_profile)
 - [**Microsoft Certified: Azure Data Engineer Associate**](https://learn.microsoft.com/en-us/users/RiazVirani-3208/credentials/83801BA081F775DE)
 - [**Microsoft Certified: Azure Data Fundamentals**](https://learn.microsoft.com/en-us/users/riazvirani-3208/credentials/d29686a599161ea7)
 - [**Modernizing Data Lakes and Data Warehouses with Google Cloud**](https://www.coursera.org/account/accomplishments/verify/35GU7HEBDTVT)
