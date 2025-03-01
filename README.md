@@ -85,7 +85,7 @@ Recognizing that data is the cornerstone of informed decision-making, I leverage
 
 ## 🚀 Projects
 
-- [**Automated Secure Salary Data Reporting to Credit Bureaus**] | July 2024
+- **Automated Secure Salary Data Reporting to Credit Bureaus** | July 2024
   Developed an end-to-end automated pipeline to securely transmit employee salary data to credit bureaus, enhancing loan verification efficiency and reducing HR workload.
   - Data Extraction & Processing: Identified and retrieved real-time salary data in required format from the ERP system.
   - Secure File Handling: Encrypted files using the credit bureau’s public key, ensuring 100% compliance with security protocols.
@@ -94,14 +94,14 @@ Recognizing that data is the cornerstone of informed decision-making, I leverage
    
 
 
-- [**Universal Explore Transfer Program Integration**] | Sep 2024
+- **Universal Explore Transfer Program Integration** | Sep 2024
   Developed a data integration system for the Universal Explore Transfer Program, improving transfer credit evaluation accuracy and reducing manual verification efforts of registrar by over 30%
   - API Integration: Leveraged ERP APIs with bearer token authentication, ensuring real-time data access for the vendor.
   - Secure Data Transmission: Configured SFTP-based transfer via Argos, enabling data delivery for 100% of required courses not covered by APIs.
   - Collaboration & Implementation: Worked with the vendor and Registrar’s Office to enhance course credit mapping, benefiting thousands of students annually.
   This initiative optimized data flow, improved student decision-making, and streamlined the transfer credit evaluation process without intervention of Registrar.
 
-- [**Business Process Improvement**] | Oct 2024
+- **Business Process Improvement** | Oct 2024
    
   HR Automation - Developed an automated hour deduction system for winter and summer breaks, dynamically adjusting deductions based on employee workweeks. Previously, HR manually processed these calculations, consuming significant time and effort. The automation reduced manual processing by 80%, improved accuracy, and allowed HR to focus on higher-value tasks, ensuring a seamless and efficient workflow.
 
@@ -109,7 +109,10 @@ Recognizing that data is the cornerstone of informed decision-making, I leverage
 
   Academic Affairs - Automated the faculty position and suffix assignment process for academic affairs, which was previously handled manually for each course. Leveraged ERP processes to dynamically retrieve faculty positions and automate data entry, eliminating manual input. This automation significantly reduced processing time, minimized errors, and enhanced efficiency in academic scheduling and faculty management.
 
+- **Implemented Time Management Systems** | Jan 2025
+  Implemented a Time Management System to digitize the time-tracking process for non-exempt employees, replacing manual paper-based records with an automated solution. FLMA regulations require tracking employee work hours and compensating overtime, but since these employees are salaried, their hours should not be directly fed into the payroll system.
 
+  To address this challenge while maintaining compliance, I developed a custom workaround that ensured accurate tracking without impacting payroll calculations. This digital transformation improved record accuracy, ensured regulatory compliance, and eliminated manual errors, making the process more efficient and transparent for workforce management
 
 ## 🚀 Data Engineering Projects
 
