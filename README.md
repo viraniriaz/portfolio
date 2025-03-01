@@ -111,7 +111,8 @@ Recognizing data as the foundation of informed decision-making, I leverage cloud
   Academic Affairs - Automated the faculty position and suffix assignment process for academic affairs, which was previously handled manually for each course. Leveraged ERP processes to dynamically retrieve faculty positions and automate data entry, eliminating manual input. This automation significantly reduced processing time, minimized errors, and enhanced efficiency in academic scheduling and faculty management.
 
 - **Implemented Time Management Systems** | Jan 2025
-  Implemented a Time Management System to digitize the time-tracking process for non-exempt employees, replacing manual paper-based records with an automated solution. FLMA regulations require tracking employee work hours and compensating overtime, but since these employees are salaried, their hours should not be directly fed into the payroll system.
+  
+  Implemented a Time Management System to digitize the time-tracking process for non-exempt employees, replacing manual paper-based records with an automated solution. FLSA regulations require tracking employee work hours and compensating overtime, but since these employees are salaried, their hours should not be directly fed into the payroll system.
 
   To address this challenge while maintaining compliance, I developed a custom workaround that ensured accurate tracking without impacting payroll calculations. This digital transformation improved record accuracy, ensured regulatory compliance, and eliminated manual errors, making the process more efficient and transparent for workforce management
 
