@@ -73,6 +73,7 @@ Recognizing that data is the cornerstone of informed decision-making, I leverage
 ## 🔍 Skills
 
 - **Languages:** Python, Structure Query Language(SQL), JavaScript, Selenium, Shell Scripting
+- **Enterprise Applications:** Ellucian Banner, Degreeworks, Ultratime, D2L, Atomic UC4
 - **Development Frameworks:** Google Collab, Jupyter Notebook, AWS SDK, GCP SDK, Apache Spark, Apache Kafka, Django
 - **Analytical Tools/Library:** envision Argos, Power BI, Matplotlib, Pandas, MS Excel, Looker
 - **Database:** Oracle, Postgres, MySQL, MongoDB, SQLite
