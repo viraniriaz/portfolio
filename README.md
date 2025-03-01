@@ -1,6 +1,6 @@
 # Riaz Virani
 
-#### Technical Skills: Python, SQL, Snowflake, Microsoft Azure, GCP
+#### Technical Skills: Cloud Architecture, Integration, ERP System Optimization, Business Process Automation 
 
 ## 📍 Denton, Texas
 
