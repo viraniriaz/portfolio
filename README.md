@@ -14,9 +14,9 @@
 
 ## About
 
-As an AWS Certified Cloud Practitioner and System Analyst, I specialize in architecting cloud-driven solutions that enhance ERP integrations and streamline business operations. I firmly believe that any repetitive task can be automated using technology, eliminating inefficiencies and improving productivity. With expertise in Ellucian Banner, I analyze business workflows, bridge gaps in ERP systems, and design scalable, automation-driven solutions to optimize processes.
+As an AWS Certified Cloud Practitioner and System Analyst, I specialize in architecting cloud-driven solutions that optimize ERP integrations and automate business operations. I firmly believe that any repetitive task can be automated to eliminate inefficiencies and enhance productivity. With expertise in Ellucian Banner, I analyze workflows, bridge ERP gaps, and design scalable, automation-driven solutions tailored to business needs.
 
-Recognizing that data is the cornerstone of informed decision-making, I leverage SQL, Python, and AWS services to develop secure, high-performance architectures that improve data accessibility and operational efficiency. My passion lies in bridging ERP and cloud technologies, ensuring seamless integration that empowers organizations with intelligent automation, data-driven insights, and future-ready solutions in an evolving digital landscape.
+Recognizing data as the foundation of informed decision-making, I leverage cloud services, programming, and database technologies best suited for each solution. My passion lies in seamlessly integrating ERP with cloud technologies, enabling intelligent automation, data-driven insights, and future-ready solutions for evolving business needs.
 
 ## 💼 Experience
 
