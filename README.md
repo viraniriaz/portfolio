@@ -18,7 +18,7 @@ I specialize in solving complex Higher Education challenges by architecting ente
 
 My work focuses on modernizing ERP environments through the implementation of Ellucian Insights to drive data-informed decision-making and the deployment of Softdocs to digitize legacy paper-based workflows. I leverage Ellucian Ethos APIs to seamlessly integrate various 3rd-party systems and deploy recently updated SaaS-based enhancements and process improvements. I am dedicated to eliminating operational silos through scalable automation, enabling institutions to transition into future-ready, cloud-driven operations.
 
-## HIGHER EDUCATION IMPLEMENTATION & SOLUTIONS
+## Higher Education Implementation and Solutions
 
 - Supported, maintained, and enhanced Ellucian Banner ERP, resolving complex application and database issues,coordinating with Ellucian Support, and managing access using Banner Access Management (BAM).
 - Developed and maintained PL/SQL code (procedures, functions, packages) to automate Banner processes, support institutional reporting, and improve system reliability and performance.
