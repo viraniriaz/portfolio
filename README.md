@@ -14,21 +14,48 @@
 
 ## About
 
-As an AWS Certified Cloud Practitioner and System Analyst, I specialize in architecting cloud-driven solutions that optimize ERP integrations and automate business operations. I firmly believe that any repetitive task can be automated to eliminate inefficiencies and enhance productivity. With expertise in Ellucian Banner, I analyze workflows, bridge ERP gaps, and design scalable, automation-driven solutions tailored to business needs.
+I specialize in solving complex Higher Education challenges by architecting enterprise-wide solutions within the Ellucian Banner ecosystem. I have a proven track record of driving digital transformation across Academic Affairs, Registrar, Admissions, Financial Aid, HR, and Finance, ensuring that technology aligns with institutional business logic.
 
-Recognizing data as the foundation of informed decision-making, I leverage cloud services, programming, and database technologies best suited for each solution. My passion lies in seamlessly integrating ERP with cloud technologies, enabling intelligent automation, data-driven insights, and future-ready solutions for evolving business needs.
+My work focuses on modernizing ERP environments through the implementation of Ellucian Insights to drive data-informed decision-making and the deployment of Softdocs to digitize legacy paper-based workflows. I leverage Ellucian Ethos APIs to seamlessly integrate various 3rd-party systems and deploy recently updated SaaS-based enhancements and process improvements. I am dedicated to eliminating operational silos through scalable automation, enabling institutions to transition into future-ready, cloud-driven operations.
+
+## HIGHER EDUCATION IMPLEMENTATION & SOLUTIONS
+
+- Supported, maintained, and enhanced Ellucian Banner ERP, resolving complex application and database issues,coordinating with Ellucian Support, and managing access using Banner Access Management (BAM).
+- Developed and maintained PL/SQL code (procedures, functions, packages) to automate Banner processes, support institutional reporting, and improve system reliability and performance.
+- Implemented Ellucian Insights end‑to‑end, from user and role‑based security to data ingestion, modeling, and dashboards, leveraging Ellucian‑delivered and custom data models and cloud‑based Ellucian Data Connect pipelines to consolidate Banner and external data into a centralized analytics environment.
+- Designed and implemented Banner extensibility solutions, including Ellucian Forms and Intelligent Processes, leveraging Ethos APIs to integrate Banner data and enforce business logic.
+- Implemented and supported third‑party integrations using the Ethos Platform, REST APIs, JSON, and SFTP, integrating Banner with systems such as Softdocs, D2L, Meadows, Inceptia, and external vendors, including batch automation via Automic Scheduler (UC4) and evisions argos.
+- Led document management and imaging solutions using Softdocs and BDMS (OpenText), digitizing and automating workflows; supported DegreeWorks, Argos, FormFusion, and BCM for advising, reporting, communications, and compliance.
+- Collaborated closely with functional stakeholders and IT teams, translating business requirements into scalable Banner solutions while independently managing multiple initiatives. 
+
+## Softdocs
+
+- Served as a key institutional partner in the implementation and adoption of Softdocs Etrieve, collaborating with Admissions, Registrar, HR, Academic Affairs, and IT to analyze departmental workflows and automate 50+ production forms and processes, while translating business and compliance requirements into functional workflows aligned with institutional policies and operational needs.
+- Configured and managed Etrieve security and role-based access, coordinating with Microsoft Entra ID and internal IT teams to ensure appropriate access control, governance, and compliance.
+- Supported Softdocs–Banner integrations using API-based retrieval of Banner data to pre-populate forms, validate submissions, and reduce manual processing, improving data accuracy and efficiency.
+- Designed and maintained Etrieve Connect queries to securely integrate the Banner database with Etrieve Central, enabling controlled, reliable, and repeatable data exchange between systems.
+-  Developed operational reports and analytics using data captured through Softdocs to support audits, monitoring, and institutional reporting requirements, and delivered end‑user training, documentation, and post‑go‑live support to ensure successful onboarding, adoption, and sustained platform usage. 
+
 
 ## 💼 Experience
 
-- **Horry-Georgetown Technical College** |  Banner System Analyst | Myrtle Beach, SC 
-  Jun 2024 - Present · 10 mos
+- **Horry-Georgetown Technical College** |  Institutional Intelligence Analyst | Conway, SC 
+  Jan 2026 - Present · 4 mos
+
+  - Manage institutional analytics and compliance reporting across federal, state, and internal requirements, ensuring data accuracy, consistency, and governance.
+  - Build dashboards, reports, and predictive models that support enrollment, retention, student success, and strategic planning.
+  - Administer Softdocs and integrate Banner and analytics platforms to streamline workflows, reporting, and decision support.
+  - Translate complex data into actionable insights for leadership, academic programs, and operational stakeholders.
+
+- **Horry-Georgetown Technical College** |  Banner System Analyst | Conway, SC 
+  Jun 2024 - January · 1 yr 10 mos
 
   -  Develop, implement, and maintain the Ellucian Banner system to support the college's operational and academic goals, optimizing processes and enhancing system functionality.
   - Collaborate with stakeholders to understand and address needs, providing technical support and training to staff and students for an improved user experience.
   - Conduct regular system analysis, troubleshooting, and documentation to ensure optimal performance, reliability, and continuous improvement in line with the latest advancements in the Ellucian Banner suite.
 
 - **Global Encounters** |  Power BI Developer | Remote
-  July 2024 - Present · 9 mos
+  July 2024 - November 2025 · 1 yr 5 mos
 
   -  Partnering with cross-functional teams to deliver over 20+ data-driven Power BI dashboards, enabling actionable insights for global arts and sports programming.
   -  Streamlining data visualization for 100+ qualifying events, enhancing transparency and decision-making across festival operations.
@@ -49,7 +76,7 @@ Recognizing data as the foundation of informed decision-making, I leverage cloud
 
 
 - **University of North Texas** | Graduate Teaching Assistant | Denton, USA  
-  Jan 2023 - Dec 2023 · 12 mos
+  Jan 2023 - Dec 2023 · 1 yr
 
   - Applied pedagogical techniques and Canvas Learning Management Systems (LMS) to boost course participation by 15% and increase assignment completion rates by 10%.
   - Utilized statistical analysis tools (Canvas Analytics) to enhance course content, resulting in a 20% increase in exam scores and a 95% course satisfaction rate among students.
